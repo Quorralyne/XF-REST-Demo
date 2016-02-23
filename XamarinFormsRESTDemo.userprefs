@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Droid\XamarinFormsRESTDemo.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsRESTDemo\XamarinFormsRESTDemo.cs">
+    <Files>
+      <File FileName="XamarinFormsRESTDemo\XamarinFormsRESTDemo.cs" Line="37" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
